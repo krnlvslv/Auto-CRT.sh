@@ -1,7 +1,7 @@
 # CRTshAuto - Инструмент для анализа SSL-сертификатов, предназначенный для пентестеров и администраторов безопасности! 🔒
 
-![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 CRTshAuto - это инструмент для автоматического сбора информации о SSL-сертификатах и поиска поддоменов через сервис crt.sh.
 
